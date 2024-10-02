@@ -20,17 +20,13 @@ class MainApp extends StatelessWidget {
               ),
               Row(children: [
                 Icon(Icons.alternate_email),
-                Text("olegnovosad@gmail.com")
+                Text("kulishmaksum10@gmail.com")
               ])
             ]),
             SizedBox(height: 48,),
-            Text("Hi, I'm Oleg Novosad",
+            Text("Hi, I'm Maksum Kulish",
                 style: TextStyle(fontSize: 16, color: Color(0xFF291854))),
-            Text("Application Architect and Music Producer",
-                style: TextStyle(
-                    fontSize: 48,
-                    color: Color(0xFF190D37),
-                    fontWeight: FontWeight.bold))
+            Text("Just student PVPU №29", style: TextStyle(fontSize: 48, color: Color(0xFF190D37), fontWeight: FontWeight.bold))
           ],
         ),
       ),
